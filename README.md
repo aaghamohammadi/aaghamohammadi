@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Alireza Aghamohammadi
 
 <!--
 **aaghamohammadi/aaghamohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm a Software Engineer 👨‍💻, Adjunct Professor 👨‍🏫, and YouTuber 📺. 
+
+- 💻 I'm a Python developer with +10 years of experience
+- 👨‍🎓 I have a Ph.D. in Software Engineering from the Sharif University of Technology
+- ⚡ I became an adjunct professor at the department of computer science and engineering in 2020
+- 🏆 I have been teaching undergraduate students courses like English for Computing and Fundamentals of Programming (Python)
+- 📚 I'm a YouTuber and create different courses related to Software Egnineering (Language: Farsi)
+
+
