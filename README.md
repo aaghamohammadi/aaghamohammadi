@@ -1,19 +1,5 @@
 ### Hi there 👋, I'm Alireza Aghamohammadi
 
-<!--
-**aaghamohammadi/aaghamohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### I'm a Software Engineer 👨‍💻, Adjunct Professor 👨‍🏫, and YouTuber 📺. 
 
@@ -23,4 +9,11 @@ Here are some ideas to get you started:
 - 🏆 I have been teaching undergraduate students courses like English for Computing and Fundamentals of Programming (Python)
 - 📚 I'm a YouTuber and create different courses related to Software Egnineering (Language: Farsi)
 
+### 📬 Connect with me:
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Alireza Aghamohammadi | Youtube" height="30" width="40" />][youtube]
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave Gray | LinkedIn" height="30" width="40" />][linkedin]
+
+
+[youtube]: https://www.youtube.com/c/golemcourse
+[linkedin]: https://www.linkedin.com/in/aaghamohammadi/
 
