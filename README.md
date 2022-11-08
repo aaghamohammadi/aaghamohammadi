@@ -6,7 +6,7 @@
 ### Hi there 👋, I'm Alireza Aghamohammadi
 
 
-### I'm a Software Engineer 👨‍💻, Adjunct Professor 👨‍🏫, and YouTuber 📺. 
+### I'm a Software Engineer 👨‍💻, Guest Lecturer 👨‍🏫, and YouTuber 📺. 
 
 - 💻 I'm a Python developer with +10 years of experience
 - 👨‍🎓 I have a Ph.D. in Software Engineering from the Sharif University of Technology
