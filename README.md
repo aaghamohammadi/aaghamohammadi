@@ -10,7 +10,7 @@
 
 - 💻 I'm a Python developer with +10 years of experience
 - 👨‍🎓 I have a Ph.D. in Software Engineering from the Sharif University of Technology
-- ⚡ I am an adjunct professor at the department of computer science and engineering
+- ⚡ I am a guest lecturer at the department of computer science and engineering
 - 📚 I'm a YouTuber and create different courses related to Software Egnineering
 
 
