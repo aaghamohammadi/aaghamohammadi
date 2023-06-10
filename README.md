@@ -37,7 +37,6 @@ alt="Web Development (Frontend)" width="240" height="180" /></a>
 alt="Git" width="240" height="180" /></a>
 
 
-
-[youtube]: https://www.youtube.com/c/golemcourse
+[youtube]: https://www.youtube.com/@golemcourse
 [linkedin]: https://www.linkedin.com/in/aaghamohammadi/
 
