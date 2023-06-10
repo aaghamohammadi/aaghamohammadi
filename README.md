@@ -7,7 +7,7 @@
 
 
 ### I'm a Software Engineer and YouTuber @ GolemCourse. 
-- I consult with teams to implement and deploy successful CI/CD pipelines in their companies.
+- I consult teams to help them implement and deploy successful CI/CD pipelines in their companies.
 - I hold a Ph.D. in Software Engineering from the Sharif University of Technology, ranked as the top technical university in Iran.
 - I'm a Python developer with 10+ years of experience
 - I am a guest lecturer at the department of computer science and engineering
