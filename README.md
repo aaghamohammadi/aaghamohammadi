@@ -29,9 +29,6 @@ alt="Python Programming" width="240" height="180" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=v9VdLLBETK8
 " target="_blank"><img src="http://img.youtube.com/vi/v9VdLLBETK8/0.jpg" 
 alt="System Design" width="240" height="180" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=foTQ5IfPLas
-" target="_blank"><img src="http://img.youtube.com/vi/foTQ5IfPLas/0.jpg" 
-alt="Web Development (Frontend)" width="240" height="180" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4RJUs6yP7HI
 " target="_blank"><img src="http://img.youtube.com/vi/4RJUs6yP7HI/0.jpg" 
 alt="Git" width="240" height="180" /></a>
