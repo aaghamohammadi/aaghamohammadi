@@ -11,7 +11,7 @@
 - I hold a Ph.D. in Software Engineering from the Sharif University of Technology, ranked as the top technical university in Iran.
 - I'm a highly experienced Python developer with over 10 years of professional experience in this field.
 - I'm honored to serve as a guest lecturer at the Department of Computer Science and Engineering. 
-- I create software engineering content on YouTube, which has amassed over 130,000 views, 4,400 watch time hours, and 2,150 subscribers.
+- I create software engineering content on YouTube, which has amassed over 143,000 views, 5,100 watch time hours, and 2,300 subscribers.
 
 
 
