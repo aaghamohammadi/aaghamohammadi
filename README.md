@@ -6,11 +6,11 @@
 
 ### I'm a researcher, software engineer, and YouTuber. 
 - **Goal**: *Enable organizations and individuals to design, develop, and deploy high-quality software.*
-- I consult teams to help them implement and deploy successful CI/CD pipelines in their companies.
-- I hold a Ph.D. in Software Engineering from the Sharif University of Technology, ranked as the top technical university in Iran.
-- I'm a highly experienced Python developer with over 10 years of professional experience in this field.
-- I'm honored to serve as a guest lecturer at the Department of Computer Science and Engineering. 
-- I create software engineering content on YouTube, which has amassed over 143,000 views, 5,100 watch time hours, and 2,300 subscribers.
+- Consult teams to help them implement and deploy successful CI/CD pipelines in their companies.
+- Hold a Ph.D. in Software Engineering from the Sharif University of Technology, ranked as the top technical university in Iran.
+- A highly experienced Python developer with over 10 years of professional experience in this field.
+- Honored to serve as a guest lecturer at the Department of Computer Science and Engineering. 
+- Create software engineering content on YouTube, which has amassed over 143,000 views, 5,100 watch time hours, and 2,300 subscribers.
 
 
 
