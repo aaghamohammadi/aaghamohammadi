@@ -10,7 +10,7 @@
 - Hold a Ph.D. in Software Engineering from Sharif University of Technology, ranked as the top technical university in Iran.
 - A highly experienced Python developer with over 10 years of professional experience in this field.
 - Honored to serve as a guest lecturer at the Department of Computer Science and Engineering. 
-- Deliver software engineering courses on YouTube, which has amassed over 152,000 views, 5,700 watch time hours, and 2,400 subscribers.
+- Deliver software engineering courses on YouTube, which has amassed over 158,000 views, 6,000 watch time hours, and 2,500 subscribers.
 
 
 
