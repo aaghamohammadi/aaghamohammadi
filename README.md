@@ -4,13 +4,14 @@
 
 
 
-### I'm a Researcher, Software Engineer, and YouTuber. 
+###  A Seasoned Software Engineer, Consultant, and YouTuber
 - **Goal**: *Enable organizations and individuals to design, develop, and deploy high-quality software.*
-- Consult teams to help them implement and deploy successful CI/CD pipelines in their companies.
-- Hold a Ph.D. in Software Engineering from Sharif University of Technology, ranked as the top technical university in Iran.
-- A highly experienced Python developer with over 10 years of professional experience in this field.
-- Honored to serve as a guest lecturer at the Department of Computer Science and Engineering. 
-- Deliver software engineering courses on YouTube, which has amassed over 158,000 views, 6,000 watch time hours, and 2,500 subscribers.
+
+Alireza offers expert consultancy to businesses, guiding them towards the successful implementation and deployment of robust CI/CD pipelines. With over a decade of professional experience as a software engineer, he brings a wealth of knowledge and expertise to the table.
+
+In addition to consultancy, he serves as a lecturer at the Department of Computer Engineering, imparting knowledge and skills to the next generation of software engineers.
+
+Furthermore, Alireza delivers software engineering courses on YouTube, reaching a broad audience with over 172,000 views, 6,700 watch-time hours, and a growing community of 2,700 subscribers.
 
 
 
