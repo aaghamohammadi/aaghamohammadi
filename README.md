@@ -1,17 +1,9 @@
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwufX0aA5ePSdNT3vaDms9w?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
 
+Alireza serves as a lecturer at the Department of Computer Engineering, imparting knowledge and skills to the next generation of software engineers.
 
-
-
-###  A Seasoned Software Engineer, Consultant, and YouTuber
-- **Goal**: *Enable organizations and individuals to design, develop, and deploy high-quality software.*
-
-Alireza offers expert consultancy to businesses, guiding them towards the successful implementation and deployment of robust CI/CD pipelines. With over a decade of professional experience as a software engineer, he brings a wealth of knowledge and expertise to the table.
-
-In addition to consultancy, he serves as a lecturer at the Department of Computer Engineering, imparting knowledge and skills to the next generation of software engineers.
-
-Furthermore, Alireza delivers software engineering courses on YouTube, reaching a broad audience with over 172,000 views, 6,700 watch-time hours, and a growing community of 2,700 subscribers.
+Furthermore, Alireza delivers software engineering courses on YouTube, reaching a broad audience with over 183,000 views, 7,300 watch-time hours, and a growing community of 2,800 subscribers.
 
 
 
