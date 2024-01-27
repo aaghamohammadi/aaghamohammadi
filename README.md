@@ -1,9 +1,9 @@
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwufX0aA5ePSdNT3vaDms9w?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
 
-Alireza serves as a lecturer at the Department of Computer Engineering, imparting knowledge and skills to the next generation of software engineers.
+Alireza delivers software engineering courses on YouTube, reaching a broad audience with over 183,000 views, 7,300 watch-time hours, and a growing community of 2,800 subscribers.
 
-Furthermore, Alireza delivers software engineering courses on YouTube, reaching a broad audience with over 183,000 views, 7,300 watch-time hours, and a growing community of 2,800 subscribers.
+Furthermore, Alireza served as a lecturer in the Department of Computer Engineering from January 2019 to January 2024, imparting knowledge and skills to the next generation of software engineers.
 
 
 
