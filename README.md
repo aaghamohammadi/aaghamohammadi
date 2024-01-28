@@ -3,7 +3,7 @@
 
 Alireza delivers software engineering courses on YouTube, reaching a broad audience with over 183,000 views, 7,300 watch-time hours, and a growing community of 2,800 subscribers.
 
-Furthermore, Alireza served as a guest lecturer in the Department of Computer Engineering from January 2019 to January 2024, imparting knowledge and skills to the next generation of software engineers.
+Furthermore, Alireza served as a guest lecturer in the Department of Computer Engineering from September 2019 to January 2024, imparting knowledge and skills to the next generation of software engineers.
 
 
 
